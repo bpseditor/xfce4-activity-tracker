@@ -1,0 +1,6 @@
+/* Activity Tracker panel readability */
+.xfce4-panel { color: #e0ded8; font-family: Inter; font-size: 13px; }
+#genmon-20, #genmon-21 { padding: 0 10px; margin: 3px 5px; border-radius: 6px; background-color: #1f242c; }
+
+/* Neutral clock, matching Activity Tracker. */
+#clock-button, #clock-button label { color: #bfc5ce; }
